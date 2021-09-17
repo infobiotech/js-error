@@ -1,6 +1,6 @@
 {
   "name": "@infobiotech/js-error",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "keywords": [
     "error"
   ],
@@ -31,7 +31,6 @@
   "scripts": {
     "dev": "nodemon",
     "build": "rimraf build && babel ./src --out-dir build --no-comments",
-    "publish": "yarn build && npm publish --access public",
     "test": "jest --coverage"
   },
   "devDependencies": {
