@@ -27,3 +27,5 @@ src
 tests
 tutorials
 VERSIONS.txt
+coverage
+private
