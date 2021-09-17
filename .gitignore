@@ -136,6 +136,5 @@ config.local.json
 build/.sass-cache
 main.css
 spikes
-yarn.lock
 package-lock.json
 private
