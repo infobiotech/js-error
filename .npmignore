@@ -5,7 +5,6 @@ Makefile
 logo.png
 jsdoc/
 .jshintrc
-build/
 components/
 /.*/
 /.*
@@ -15,7 +14,6 @@ components/
 /CONTRIBUTING.md
 /HISTORY.md
 _assets
-build
 bower.json
 docs
 examples

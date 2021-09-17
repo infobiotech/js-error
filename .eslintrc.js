@@ -65,5 +65,5 @@ module.exports = {
       },
     ],
   },
-  ignorePatterns: ['**/build/*'],
+  ignorePatterns: ['build','coverage','private'],
 };

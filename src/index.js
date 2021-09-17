@@ -1,3 +1,3 @@
 export default class IbtJsError {
-  static Version = '0.1.0';
+  static Version = '0.1.1';
 }

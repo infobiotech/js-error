@@ -1,6 +1,6 @@
 {
   "name": "@infobiotech/js-error",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "error"
   ],
@@ -22,8 +22,10 @@
       "src/*"
     ],
     "ignore": [
+      "tests/*",
       "build/*",
-      "tests/*"
+      "coverage/*",
+      "private/*"
     ]
   },
   "scripts": {
